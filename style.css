@@ -31,10 +31,10 @@ body{background-color: black;
 
 main{
     margin: auto;
-    width: 65vh;
+    width: 70vh;
 }
 #about{
-    margin-bottom: 65px;
+    margin-bottom: 45px;
 }
 
 
@@ -60,7 +60,7 @@ main{
 }
 
 header{
-    margin-bottom: 5vh;
+    margin-bottom: 4vh;
 }
 
 #tryingflex{
@@ -77,7 +77,7 @@ header{
 
 #bold{
     margin-left: 40px;
-    font-size: 20px;
+    font-size: 17px;
 }
 
 #flexforprojects{
@@ -119,6 +119,7 @@ header{
 #hover{
     text-decoration: none; 
     color: white;
+    font-size: 15px;
 }
 #hover:hover{
     text-decoration: underline;
