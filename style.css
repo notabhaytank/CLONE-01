@@ -7,7 +7,8 @@ body{background-color: black;
     
 }
 
-.light{color: #808080
+.light{color: #808080;
+    margin-left: 40px;
 
 }
 
@@ -20,11 +21,12 @@ body{background-color: black;
 } */
 
 .greytext{
-    color:  #9f9f87;
+    color:  #cfcfcf;
 }
 
 .date {
     color: #808080;
+    width: 40vw;
 }
 
 main{
@@ -32,5 +34,46 @@ main{
     width: 65vh;
 }
 #about{
-    margin-bottom: 40px;
+    margin-bottom: 65px;
+}
+
+
+#intro {
+    /* background-color: #9f9f87; */
+    display: flex;
+    width: auto;
+    height: auto;
+    
+}
+
+#backdrop {
+    /* background-color: rgb(46, 87, 87); */
+
+}
+
+#backdrop2 {
+    /* background-color: aquamarine; */
+    margin-left: 30px;
+    margin-top: 3%;
+    font-size: 20px;
+    width: 400px;
+}
+
+header{
+    margin-bottom: 5vh;
+}
+
+#tryingflex{
+    display: flex;
+
+}
+.date{
+    /* background-color: aqua; */
+    height: 50vh;
+    width: 10vw;
+    margin-right: 6px;
+}
+
+#bold{
+    margin-left: 40px;
 }
